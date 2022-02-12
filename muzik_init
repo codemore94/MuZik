@@ -1,0 +1,42 @@
+#skeleton in hi level for MuZik-bot
+
+class MuZik:
+
+	class NN:
+		self.type=Transformer
+	
+		self.func=read_raw_audio():
+
+
+		self.func=modify_nns()	
+
+
+		self.func=re()
+	
+	self.func=build()
+
+
+
+func main():
+	build()
+	
+
+
+channel=input_from_port()
+
+func read_raw_audio():
+	open(channel)
+	
+	read(channel)
+	
+	wait for 1/f_sample
+	
+	store reg sample
+	
+	close(channel)
+	
+func modify_nns():
+	import params from Controller
+	
+
+	
